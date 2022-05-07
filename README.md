@@ -1,11 +1,11 @@
 # students-helper / Бот помощник для студентов ТулГу
 <p>Данный телеграм бот написан с использованием aiogram.</p>
 <p align="center">
-  <img src="https://res.cloudinary.com/duhxeavu0/image/upload/v1651827531/img/1_dzyoek.png" width=30%/>
+  <img src="https://res.cloudinary.com/duhxeavu0/image/upload/v1651827531/img/1_dzyoek.png" width=45%/>
 </p>
 <p>При запуске бот предоставляет пользователю Inline клавиатуру для управления</p>
 <p align="center">
-  <img src="https://res.cloudinary.com/duhxeavu0/image/upload/v1651827741/img/2_rcwol3.png" width=30%/>
+  <img src="https://res.cloudinary.com/duhxeavu0/image/upload/v1651827741/img/2_rcwol3.png" width=45%/>
 </p>
 
 ### Расаписание занятий
